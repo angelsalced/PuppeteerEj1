@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-ej1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", // Cambia 'index.js' por tu archivo principal
+    "dev": "nodemon index.js" // Cambia 'index.js' por tu archivo principal
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  }
+}
